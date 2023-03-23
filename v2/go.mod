@@ -29,3 +29,5 @@ retract (
 
 	v2.0.1 // Retract breaking releases
 )
+
+replace github.com/tredoe/osutil/v2 => github.com/nathcoad/osutil/v2 latest
